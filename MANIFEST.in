@@ -1,1 +1,2 @@
-include README*
+include MANIFEST.in
+include README.rst
